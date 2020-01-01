@@ -1,7 +1,8 @@
 # nimsyc.github.io
-idk
 
-[test repo 1](https://nimsyc.github.io/hello-world/) | [repo 1](https://nimsyc.github.io/poo/)
+### Tests
+
+[hello world](https://nimsyc.github.io/hello-world/) | [poo](https://nimsyc.github.io/poo/) | [yum](https://nimsyc.github.io/yum/)
 
 [Emory Website](https://emoryuniversity-girlswhocode.github.io/)
 
