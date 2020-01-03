@@ -1,6 +1,6 @@
 # nimsyc.github.io
 
-[Emory Website](https://emoryuniversity-girlswhocode.github.io/)
+[Emory Website](https://emoryuniversity-girlswhocode.github.io/) [Environmental Club](https://sites.google.com/site/environmentalclubdhhs/home?authuser=0)
 
 ## Tests
 
