@@ -21,4 +21,4 @@
 
 [//]: # (Skrub Sites)
 
-[//]: # ([Taypupper](https://tayd0gta1000.github.io/))
+[//]: # (\[Taypupper\]\(https://tayd0gta1000.github.io/\))
