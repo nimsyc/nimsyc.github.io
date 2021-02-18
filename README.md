@@ -1,6 +1,9 @@
 ### nimsyc.github.io
 
-## Finished Works
+## WIP
+
+- [todolist](https://nimsyc.github.io/todolist/)
+  - (now, later, eventually) / shopping list
 
 
 
@@ -13,8 +16,6 @@
 
 ## Tests
 
-- [yum](https://nimsyc.github.io/yum/)
-  - to do list (now, later, eventually) / shopping list
 - [hello world](https://nimsyc.github.io/hello-world/) | [poo](https://nimsyc.github.io/poo/)
   - empty websites
 
