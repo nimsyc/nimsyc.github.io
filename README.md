@@ -2,14 +2,14 @@
 
 # Finished Work
 
------------------------------------------------------------------
+
 
 # Other Works
 
 - [Emory Website](https://emoryuniversity-girlswhocode.github.io/) 
 - [Environmental Club](https://sites.google.com/site/environmentalclubdhhs/home?authuser=0)
 
------------------------------------------------------------------
+
 
 ## Tests
 
