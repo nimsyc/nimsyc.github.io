@@ -18,8 +18,7 @@
 - [hello world](https://nimsyc.github.io/hello-world/) | [poo](https://nimsyc.github.io/poo/)
   - empty websites
 
------------------------------------------------------------------
 
-<--- # Skrub Sites -->
+[//]: # (Skrub Sites)
 
-<--- [Taypupper](https://tayd0gta1000.github.io/) -->
+[//]: # ([Taypupper](https://tayd0gta1000.github.io/))
