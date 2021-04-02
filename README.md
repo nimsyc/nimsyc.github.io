@@ -1,7 +1,7 @@
 ### nimsyc.github.io
 
 ## WIP
-
+- [personal website](https://nimsyc.github.io/)
 - [todolist](https://nimsyc.github.io/todolist/)
   - (now, later, eventually) / shopping list
 
