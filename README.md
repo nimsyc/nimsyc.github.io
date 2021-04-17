@@ -11,6 +11,7 @@
 - ~~website links~~
 - ~~resume download~~
 - responsive nav
+- add link to source code
 
 ## Made With
 
